@@ -33,3 +33,11 @@ CREATE TABLE Orders(
 	Quantity INT,
 	Total_Amount NUMERIC(10,2)
 );
+--Select the data from the Books table
+SELECT * FROM Books;
+
+--Select the data from the Customers table
+SELECT * FROM Customers;
+
+--Select the data from the Orders table
+SELECT * FROM Orders;
