@@ -61,6 +61,7 @@ books-order-sql-project/
 
 ### ERD (Entity-Relationship Diagram)
 ![ERD](ERD.png)
+<img width="807" height="475" alt="image" src="https://github.com/user-attachments/assets/9329982d-e80e-4d0e-a5ed-5b58feae5d2d" />
 
 ---
 
